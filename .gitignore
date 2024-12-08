@@ -1,0 +1,6 @@
+*env/
+.Rhistory
+.RData
+Evidencia 1.Rproj
+.Rproj.user/
+*.h5
